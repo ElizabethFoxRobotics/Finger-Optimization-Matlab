@@ -1,1 +1,1 @@
-code for optimizing finger parameters (link lenghts and base angles relative to joints) to maximize shape; some methods use MATLAB's Deep Learning Toolbox
+code for optimizing finger parameters (link lenghts and base angles relative to joints) to maximize shape; some methods use MATLAB's Deep Learning Toolbox and Global Optimization Toolbox
